@@ -9,16 +9,6 @@ body {
   color: #333;
 }
 
-.container a {
-  color: #315c4a;
-  text-decoration: none;
-  transition: color 0.9s ease;
-}
-
-.container a:hover {
-  color: #00ff6e; /* Forest green hover */
-}
-
 header {
   background-color: rgba(53, 141, 53, 0.8); /* Forest green header */
   color: #fff;
